@@ -1,7 +1,7 @@
 {
   "name": "d3",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -11,7 +11,7 @@
     "react-scripts": "4.0.1",
     "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4",
-    "homepage": "https://desaxion.github.io/d3/"
+    "homepage": "desaxion.github.io/d3/"
   },
   "scripts": {
     "start": "react-scripts start",
