@@ -11,7 +11,7 @@
     "react-scripts": "4.0.1",
     "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4",
-    "homepage": "d3/"
+    "homepage": "https://desaxion.github.io/d3/"
   },
   "scripts": {
     "start": "react-scripts start",
