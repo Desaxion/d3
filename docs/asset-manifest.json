@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bb7c962.chunk.css",
+    "main.js": "/static/js/main.618b8ca9.chunk.js",
+    "main.js.map": "/static/js/main.618b8ca9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d5dd420.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d5dd420.js.map",
+    "static/js/2.1ac73e97.chunk.js": "/static/js/2.1ac73e97.chunk.js",
+    "static/js/2.1ac73e97.chunk.js.map": "/static/js/2.1ac73e97.chunk.js.map",
+    "static/js/3.cf791596.chunk.js": "/static/js/3.cf791596.chunk.js",
+    "static/js/3.cf791596.chunk.js.map": "/static/js/3.cf791596.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0bb7c962.chunk.css.map": "/static/css/main.0bb7c962.chunk.css.map",
+    "static/js/2.1ac73e97.chunk.js.LICENSE.txt": "/static/js/2.1ac73e97.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/image.18fc7e7b.jpg",
+    "static/media/insta.d072393a.png": "/static/media/insta.d072393a.png",
+    "static/media/logovit.43b50f48.svg": "/static/media/logovit.43b50f48.svg",
+    "static/media/spotify.4b823c0a.png": "/static/media/spotify.4b823c0a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d5dd420.js",
+    "static/js/2.1ac73e97.chunk.js",
+    "static/css/main.0bb7c962.chunk.css",
+    "static/js/main.618b8ca9.chunk.js"
+  ]
+}
